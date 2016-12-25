@@ -11,10 +11,10 @@ Webブラウザで動作する解析システムで、BPM（テンポ）検出�
 ブラウザ上で動作することから既存のアプリケーションよりも手軽に体験できることが利点である。
 
 ## Requirement
-pixi.js(* http://www.pixijs.com/)
+pixi.js(http://www.pixijs.com/)
 
 ## Licence
-[MIT](* https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 ## Author
-[replem](* http://gitlab.com/replem)
+[replem](http://gitlab.com/replem)
